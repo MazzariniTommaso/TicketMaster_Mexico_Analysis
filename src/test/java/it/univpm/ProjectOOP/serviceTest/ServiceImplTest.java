@@ -1,7 +1,7 @@
 package it.univpm.ProjectOOP.serviceTest;
 
 import static org.junit.Assert.assertTrue;
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.Assert.assertEquals;
 
 import java.io.IOException;
 import org.json.simple.parser.ParseException;
@@ -84,7 +84,6 @@ class ServiveImplTests {
 		genres = "Theatre";
 		startDate = "2022-01-01";
 		endDate = "2022-01-31";
-		
 	}
 	
 	@AfterEach
@@ -95,6 +94,7 @@ class ServiveImplTests {
 	@DisplayName("Test generazione delle statistiche")
 	void testStats() {
 		assertTrue(serviceStats.getStats().get(0).getState().equals("Distrito Federal"));
+		assertEquals(serviceStats.getStats().get(0).getGenre().get(0).getName(), "Theatre");
 	}
 
 	@DisplayName("Test generazione dei filtri")
