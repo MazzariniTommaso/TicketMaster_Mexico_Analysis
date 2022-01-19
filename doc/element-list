@@ -1,0 +1,14 @@
+it.univpm.ProjectOOP
+it.univpm.ProjectOOP.controller
+it.univpm.ProjectOOP.Exception
+it.univpm.ProjectOOP.exceptionTest
+it.univpm.ProjectOOP.model
+it.univpm.ProjectOOP.model.exceptions
+it.univpm.ProjectOOP.model.filtres
+it.univpm.ProjectOOP.model.stats
+it.univpm.ProjectOOP.parsing
+it.univpm.ProjectOOP.parsingTest
+it.univpm.ProjectOOP.projectTool
+it.univpm.ProjectOOP.service
+it.univpm.ProjectOOP.serviceTest
+it.univpm.ProjectOOP.toolTest
