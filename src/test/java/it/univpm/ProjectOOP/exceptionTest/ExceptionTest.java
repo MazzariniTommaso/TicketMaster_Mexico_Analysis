@@ -66,20 +66,20 @@ class ExceptionTest
     @DisplayName("Corretta generazione dell'eccezione EmptyList.")
     void testExceptionEmptyList() 
 	{
-		EmptyList e = assertThrows(EmptyList.class, () -> {exceptionTool.emptyControl(f);});      
+		assertThrows(EmptyList.class, () -> {exceptionTool.emptyControl(f);});      
     }
 	
 	@Test
 	@DisplayName("Corretta generazione dell'eccezione UncorrectState.")
 	void testExceptionUncorrectState() 
 	{
-		UncorrectState e = assertThrows(UncorrectState.class, () -> {exceptionTool.statesControl(state,stateList);});
+		assertThrows(UncorrectState.class, () -> {exceptionTool.statesControl(state,stateList);});
 	}
 	
 	@Test
-	@DisplayName("Corretta generazione dell'eccezione UncorrectState.")
+	@DisplayName("Corretta generazione dell'eccezione UncorrectDate.")
 	void testExceptionUncorrectDate() {
-		UncorrectDate e = assertThrows(UncorrectDate.class, () -> {exceptionTool.datesControl(startDate, endDate, eventList);});
+		assertThrows(UncorrectDate.class, () -> {exceptionTool.datesControl(startDate, endDate, eventList);});
 	}
 	
 }
