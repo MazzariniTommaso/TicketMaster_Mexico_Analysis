@@ -7,13 +7,13 @@ L'utente ha la possibilità di ottenere delle statistiche e dei filtri a seconda
 
 <h2>INDICE 🗂️</h2>
 
-* [Introduzione](https://github.com/MazzariniTommaso/Progetto_PO#introduzione)
-* [Installazione](https://github.com/MazzariniTommaso/Progetto_PO#installazione-e-configurazione)
-* [Rotte disponibili](https://github.com/MazzariniTommaso/Progetto_PO#rotte-disponibili)
-   * [Statistiche](https://github.com/MazzariniTommaso/Progetto_PO#statistiche)
-   * [Filtri](https://github.com/MazzariniTommaso/Progetto_PO#filtri)
-* [Test](https://github.com/MazzariniTommaso/Progetto_PO#test)
-* [Autori](https://github.com/MazzariniTommaso/Progetto_PO#autori)
+* [Introduzione](https://github.com/MazzariniTommaso/Progetto_PO#introduzione-)
+* [Installazione](https://github.com/MazzariniTommaso/Progetto_PO#installazione-e-configurazione-)
+* [Rotte disponibili](https://github.com/MazzariniTommaso/Progetto_PO#rotte-disponibili-)
+   * [Statistiche](https://github.com/MazzariniTommaso/Progetto_PO#statistiche-)
+   * [Filtri](https://github.com/MazzariniTommaso/Progetto_PO#filtri-)
+* [Test](https://github.com/MazzariniTommaso/Progetto_PO#test-)
+* [Autori](https://github.com/MazzariniTommaso/Progetto_PO#autori-)
 
 # Introduzione 📍
 Il programma tramite l'API TicketMaster il programma riceve i dati riguardanti gli eventi che si svolgeranno negli stati del Messico.
