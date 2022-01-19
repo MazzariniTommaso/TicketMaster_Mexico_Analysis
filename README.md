@@ -355,5 +355,5 @@ Abbiamo implementato i seguenti test per verificare il corretto funzionamento di
 # Autori ✒️
 | Sviluppatore|Email|
 |--|--|
-| Mazzarini Tommaso |s1100538@studenti.univpm.it  |
+| Mazzarini Tommaso |s1100538@studenti.univpm.it |
 | Merelli Leonardo |s1100073@studenti.univpm.it |
