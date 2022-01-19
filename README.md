@@ -348,9 +348,8 @@ Abbiamo implementato i seguenti test per verificare il corretto funzionamento di
 
 - **ParsignTest** : per testare il metodo che gestisce le chiamate API e restituisce una lista di Eventi.
 - **ToolTest** : per testare alcuni metodi della classe Tool.
-- **StatsServiceTest** : per testare la classe StatsService che restituisce le statistiche dopo essere state richieste tramite root.
 - **ExceptionTest** : per testare alcune eccezzioni fra quelle create per una migliore gestione degli errori.
-- **FiltresServiceTest** : per testare la classe FiltresService che si occupa di restituire i filtri a seconda dei valori immessi dall'utente.
+- **FiltresServiceTest** : per testare la corretta generazione delle statistiche e dei filtri.
 ---
 
 # Autori ✒️
